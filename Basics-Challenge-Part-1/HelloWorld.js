@@ -1,3 +1,8 @@
+/**
+ * @returns {string} - "Hello World!"
+   function helloWorld(): string;
+ */
+
 function helloWorld() {
   return "Hello World";
 }
